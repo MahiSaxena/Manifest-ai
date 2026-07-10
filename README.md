@@ -6,7 +6,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?style=flat&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-14+-000000?style=flat&logo=next.js&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-FF6B35?style=flat)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 
 ---
 
@@ -217,12 +216,10 @@ backend/                     # FastAPI backend
 
 ## Roadmap
 
-- [ ] Streaming responses (token-by-token display)
 - [ ] File encryption at rest
 - [ ] Department-level document sharing (not just private/shared)
 - [ ] Admin dashboard (usage stats, user management UI)
 - [ ] Docker deployment package
-- [ ] Support for more file types (audio transcription, email)
 
 ---
 
