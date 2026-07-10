@@ -237,11 +237,4 @@ Key engineering decisions documented in the codebase:
 - Why Ollama was chosen over cloud LLM APIs
 
 ---
-
-## License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
 *Built with Python, FastAPI, Next.js, Ollama, and ChromaDB*
