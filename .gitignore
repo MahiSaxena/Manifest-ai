@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+*.egg-info/
+
+# Environment variables — NEVER commit these
+.env
+.env.local
+.env.production
+
+# Backend generated data — don't commit user data
+backend/app_data.db
+backend/chroma_data/
+backend/documents/
+backend/encryption.key
+*.db
+
+# Next.js
+.next/
+out/
+node_modules/
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+logs/
+
+# Test files
+test_*.py
+debug_*.py
+check_*.py
+fix_*.py
